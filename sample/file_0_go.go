@@ -1,0 +1,1 @@
+// Parent no magazine stay throw.
