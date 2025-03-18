@@ -1,3 +1,5 @@
 # python-repo-5avu
 
-Along coach certain type.
+This is a sample project written in **Go**.
+
+Generated automatically.
